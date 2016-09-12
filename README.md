@@ -19,7 +19,7 @@ Download https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 ```
 
-Install f5 library.
+Install f5 python library
 
 ```
 pip install f5-sdk
