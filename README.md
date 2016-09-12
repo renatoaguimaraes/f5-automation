@@ -1,5 +1,5 @@
 # f5-automation
-Automation scripts to F5 operations based on https://github.com/F5Networks/f5-common-python. The scripts support DevOps and operating based environments docker containers.
+Automation scripts to F5 operations based on https://github.com/F5Networks/f5-common-python. The scripts support DevOps and operating based elastic environments.
 
 ### Scope
 
