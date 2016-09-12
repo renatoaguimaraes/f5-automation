@@ -9,6 +9,18 @@ Automation scripts to F5 operations based on https://github.com/F5Networks/f5-co
 
 ### Before run
 
+Install python 2.7 
+
+Install pip
+
+```
+Download https://bootstrap.pypa.io/get-pip.py
+
+python get-pip.py
+```
+
+Install f5 library.
+
 ```
 pip install f5-sdk
 ```
