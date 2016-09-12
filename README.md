@@ -3,8 +3,8 @@ Automation scripts to F5 operations based on https://github.com/F5Networks/f5-co
 
 ### Scope
 
-* Virtual servers (list, create and remove)
-* Pools (list, create and remove)
+* Virtual servers (list, add and remove)
+* Pools (list, add and remove)
 * Members (list, add and remove)
 
 ### Before run
