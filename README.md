@@ -15,6 +15,7 @@ pip install f5-sdk
 
 ### Usage
 
+#### Virtual Server
 ```
 vs-ls.py 
 ```
@@ -27,6 +28,8 @@ vs-add.py
 vs-rm.py 
 ```
 
+#### Pool
+
 ```
 pool-ls.py 
 ```
@@ -38,6 +41,8 @@ pool-add.py
 ```
 pool-rm.py 
 ```
+
+#### Member
 
 ```
 member-ls.py 
