@@ -6,3 +6,50 @@ Automation scripts to F5 operations, based on https://github.com/F5Networks/f5-c
 * Virtual servers (list, create and remove)
 * Pools (list, create and remove)
 * Members (list, add and remove)
+
+### Before run
+
+```
+pip install f5-sdk
+```
+
+### Usage
+
+```
+vs-ls.py 
+```
+
+```
+vs-add.py 
+```
+
+```
+vs-rm.py 
+```
+
+```
+pool-ls.py 
+```
+
+```
+pool-add.py 
+```
+
+```
+pool-rm.py 
+```
+
+```
+member-ls.py 
+```
+
+```
+member-add.py 
+```
+
+```
+member-rm.py 
+```
+
+
+
